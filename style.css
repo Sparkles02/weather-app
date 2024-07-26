@@ -1,4 +1,9 @@
-h1 {
+h1,
+h2 {
   color: palevioletred;
   text-align: center;
+}
+
+h2 {
+  color: plum;
 }
